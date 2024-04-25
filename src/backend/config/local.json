@@ -1,0 +1,15 @@
+{
+  "google_cloud": {
+    "credentials_secret_name": "projects/905834740259/secrets/credentials/versions/1"
+  },
+  "openai": {
+    "api_key_secret_name": "projects/905834740259/secrets/openai-api-key/versions/1"
+  },
+  "api": {
+    "url": "http://localhost",
+    "port": 8080,
+    "allowed_origins": [
+      "http://localhost:3010"
+    ]
+  }
+}
